@@ -8,11 +8,14 @@ public class BinaryString {
 //        System.out.println(x);
 //        System.out.println(Integer.toBinaryString(x));
 
-        int x = 9;
-        System.out.println(Integer.toBinaryString(x));
+//        int x = 9;
+//        System.out.println(Integer.toBinaryString(x));
+//
+//        x = x << 1;
+//        System.out.println(x);
+//        System.out.println(Integer.toBinaryString(x));
 
-        x = x << 1;
-        System.out.println(x);
+        int x = 17;
         System.out.println(Integer.toBinaryString(x));
 
 
