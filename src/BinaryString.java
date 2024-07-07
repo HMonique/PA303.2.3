@@ -30,10 +30,5 @@ public class BinaryString {
         System.out.println(x);
         System.out.println(Integer.toBinaryString(x));
 
-
-
-
-
-
     }
 }
