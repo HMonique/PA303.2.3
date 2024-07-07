@@ -7,11 +7,17 @@ public class Main{
 //        x = x >> 2;
 //        System.out.println(x);
 //        System.out.println(Integer.toBinaryString(x));
+//
+//        int x = 225;
+//        x = x >> 2;
+//        System.out.println(x);
+//        System.out.println(Integer.toBinaryString(x));
 
-        int x = 225;
+        int x = 1555;
         x = x >> 2;
         System.out.println(x);
         System.out.println(Integer.toBinaryString(x));
+
 
     }
 }
